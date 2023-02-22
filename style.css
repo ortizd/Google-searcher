@@ -1,0 +1,92 @@
+
+.div-links{
+    position: absolute;
+    left: 85%;
+    top: 5%;
+}
+
+
+.div-google{
+    width: 500px;
+    text-align: center;
+    margin:150px auto 0;
+}
+
+.text-searcher{
+    width: 90%;
+    box-sizing: border-box;
+    border-radius: 20px;
+    border: 1px solid #ccc;
+    margin: 0 auto;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding: 12px 12px;
+}
+.text-searcher:focus{
+    outline: none;
+}
+
+.input-b{
+    border-radius: 4px;
+    border: #fff;
+    background-color: #fff;
+    margin: 8px;
+    padding: 9px 9px;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.input-b:hover{
+    border: 1px solid #ccc;
+}
+
+#images{
+    color: rgb(117, 117, 239);
+    font-size: 16px;
+    margin: 0px 0px 15px 200px;
+}
+
+.div-advanced{
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    margin: 8px 8px;
+    padding: 10px;
+}
+
+.label-advanced{
+    display: inline-block;
+    width:170px;
+    text-align: left; 
+    margin: 8px 8px;  
+}
+
+.input-advanced{
+    width: 500px;
+    height: 25px;
+    border: 1px solid #ccc;
+}
+
+.input-advanced:hover{
+    border-color: #2796db;
+    outline: #2796db;
+}
+
+#submit-advanced{
+    position: absolute;
+    right: 80%;
+    border-radius: 4px;
+    border: #fff;
+    background-color: #2796db;
+    margin: 8px;
+    padding: 9px 9px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;   
+    color: #fff;
+}
+
+#submit-advanced:hover{
+    background-color: #2082bf;
+    
+}
